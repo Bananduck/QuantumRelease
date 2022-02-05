@@ -9,4 +9,5 @@ If you have any issue, or some bug or suggestion anything, the invite discord se
 
 
 Thanks for using Quantum!
+
 It use like other executor. no need to tutorial
